@@ -100,8 +100,8 @@ The app uses Google's global infrastructure. Data processing occurs in accordanc
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** [Your Contact Email]
-**Developer:** [Your Name/Company Name]
+**Email:** irselz1@gmail.com
+**Developer:** SHariq Hashmi
 **App Name:** Never Miss Salah
 **Package ID:** com.nevermisssalah
 
