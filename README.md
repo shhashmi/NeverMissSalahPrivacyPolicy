@@ -1,11 +1,11 @@
-# Privacy Policy for Never Miss Salah
+# Privacy Policy for Masjic Connect
 
 **Effective Date:** January 20, 2025
 **Last Updated:** January 20, 2025
 
 ## Introduction
 
-Never Miss Salah ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Masjic Connect ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -68,7 +68,7 @@ We use the following third-party services:
 
 ## Children's Privacy
 
-Never Miss Salah does not knowingly collect information from children under 13 years of age. The app is designed for general audiences and does not target children.
+Masjic Connect does not knowingly collect information from children under 13 years of age. The app is designed for general audiences and does not target children.
 
 ## Data Retention
 
@@ -90,7 +90,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Analytics and Tracking
 
-Currently, Never Miss Salah does NOT use any analytics, tracking, or advertising services. We do not collect usage statistics or behavioral data.
+Currently, Masjic Connect does NOT use any analytics, tracking, or advertising services. We do not collect usage statistics or behavioral data.
 
 ## International Users
 
@@ -101,13 +101,13 @@ The app uses Google's global infrastructure. Data processing occurs in accordanc
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
 **Email:** irselz1@gmail.com
-**Developer:** SHariq Hashmi
-**App Name:** Never Miss Salah
+**Developer:** traqr
+**App Name:** Masjic Connect
 **Package ID:** com.nevermisssalah
 
 ## Consent
 
-By using Never Miss Salah, you consent to this Privacy Policy and agree to its terms. If you do not agree, please do not use the app.
+By using Masjic Connect, you consent to this Privacy Policy and agree to its terms. If you do not agree, please do not use the app.
 
 ---
 
